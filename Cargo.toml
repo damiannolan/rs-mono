@@ -1,2 +1,3 @@
 [workspace]
 members = ["crates/evm-prover", "crates/sp1"]
+resolver = "3"
